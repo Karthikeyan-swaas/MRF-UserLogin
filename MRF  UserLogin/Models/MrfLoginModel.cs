@@ -27,6 +27,6 @@ namespace MRF__UserLogin.Models
         public string AdditionalRequirement { get; set; }
         public string status { get; set; }
         public int Reqstatus { get; set; }
-    //hi//
+
     }
 }
