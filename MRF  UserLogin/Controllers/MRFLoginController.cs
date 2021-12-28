@@ -50,7 +50,7 @@ namespace MRF__UserLogin.Controllers
             ViewBag.Userid = Email;
             return Json(mrfDb.CheckingloginDetails(Email, password), JsonRequestBehavior.AllowGet);
         }
-        //welcome to project bro//
+       
 
     }
 }
